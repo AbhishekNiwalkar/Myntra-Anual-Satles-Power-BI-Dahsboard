@@ -97,38 +97,13 @@ This structure supports efficient filtering, aggregation, and visualization in P
 - **Product Count:** 40  
 
 ### ✅ Interactive Visualizations
-
-
-#### 🧭 Sales Revenue by State (Map View)
-A geographical visualization displaying state-wise sales performance, highlighting high-revenue regions such as Gujarat, Uttar Pradesh, and Punjab.  
-![Sales Revenue by State](eb3597f9-ca66-423e-b0d8-cc4e94c8919a.png)
-
----
-
-#### 📊 Sales vs. Discount Analysis
-Analyzes the relationship between sales volume and discount percentages to determine optimal discounting strategies that maximize profit.  
-![Sales vs. Discount](Dashboard.png)
-
----
-
-#### 👗 Category Performance by Year
-Shows year-over-year performance of key categories — highlighting consistent growth in the women’s segment and seasonal spikes in Q4 sales.  
-![Category Performance](myntra_dashboard.png)
-
----
-
-#### 📦 Product Distribution by Sales
-Displays top-performing products (jeans, shirts, and t-shirts) across demographics, identifying high-demand product lines for better inventory planning.  
-
-#### 💰 Revenue by Brand
-Ranks brands by total sales and profitability, emphasizing the dominance of Puma, H&M, and Roadster.  
-
-#### 🧍 Sales by Category and Geography
-Combines product category and region data to uncover trends in customer preferences and regional buying patterns.  
-
-#### 🥧 Category Distribution (Pie Chart)
-Visual breakdown of sales contribution by major categories such as Men, Women, and Kids, illustrating customer engagement distribution.
-
+- **Sales vs. Discount Analysis**
+- **Category Performance by Year**
+- **Product Distribution by Sales**
+- **Revenue by Brand**
+- **Sales by Category and Geography**
+- **Sales Revenue by State (Bar Chart)**
+- **Category Distribution (Pie Chart)**
 
 ### ✅ Interactive Slicers
 - Category  
